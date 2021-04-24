@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ファイル検索", "ファイル検索\ファイル検索.vbproj", "{FD55EB34-D43C-46A4-A81F-FEA136677E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD55EB34-D43C-46A4-A81F-FEA136677E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD55EB34-D43C-46A4-A81F-FEA136677E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD55EB34-D43C-46A4-A81F-FEA136677E9A}.Debug|x86.ActiveCfg = Debug|x86
+		{FD55EB34-D43C-46A4-A81F-FEA136677E9A}.Debug|x86.Build.0 = Debug|x86
+		{FD55EB34-D43C-46A4-A81F-FEA136677E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD55EB34-D43C-46A4-A81F-FEA136677E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD55EB34-D43C-46A4-A81F-FEA136677E9A}.Release|x86.ActiveCfg = Release|x86
+		{FD55EB34-D43C-46A4-A81F-FEA136677E9A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A19620BC-F003-4481-992F-67B62669C5C0}
+	EndGlobalSection
+EndGlobal
